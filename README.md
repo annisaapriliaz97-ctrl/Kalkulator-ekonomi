@@ -1,4 +1,5 @@
 #Penjelasan kerangka kerja (framework/flow)
+
 Pada project ini, saya menggunakan framework Flask yang berbasis Python untuk membangun sistem web yang saya buat.
 Struktur project terdiri dari dua bagian utama, yaitu backend yang berada di file app.py, dan frontend yang berada di folder templates dengan file index.html.
 Pada bagian backend, saya menggunakan file app.py yang dibangun dengan framework Flask.
@@ -11,6 +12,7 @@ Di dalamnya terdapat struktur HTML yang terdiri dari head dan body. Pada bagian 
 Di dalam form terdapat beberapa input, seperti biaya marketing, jumlah customer, rata-rata pembelian, dan retention rate. Selain itu, terdapat tombol “Hitung Performa” yang berfungsi untuk mengirim data ke server dan memulai proses perhitungan, Index.html berfungsi sebagai antarmuka yang menghubungkan user dengan sistem backend.
 
 #Penjelasan WEBSITE
+
 nah ada pula output yang dihasilkan dari semua framework yang saya buat, tampilannya seperti ini
 ![Text Alt](GAMBAR1.png) 
 Website ini saya buat karena dalam dunia bisnis digital, penting untuk mengetahui apakah strategi marketing yang dilakukan sudah efektif atau belum.
